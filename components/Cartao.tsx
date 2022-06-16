@@ -1,5 +1,5 @@
-import styles from "../styles/Cartao.module.css"
-
+//import styles from "../styles/Cartao.module.css"
+import styles from "*.css"
 interface CartaoProps {
     bgcolor?: string
     children?: any
